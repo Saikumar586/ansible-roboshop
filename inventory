@@ -1,6 +1,5 @@
 [mongodb]
-mongodb.saidev.world
-
+centosinstance ansible_ssh_host=172.31.81.156
 [catalogue]
 catalogue.saidev.world
 
